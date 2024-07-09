@@ -1,0 +1,9 @@
+<template>
+  <footer class="max-w-7xl mx-auto">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore hic perspiciatis itaque blanditiis corrupti et, amet eligendi error cum voluptatibus nesciunt tenetur recusandae eum consectetur libero suscipit quod ea voluptas ullam doloremque nulla? Tempora quas soluta dolores accusamus aliquam maxime quos veritatis asperiores non nulla nihil enim, dolorem nesciunt maiores architecto consectetur praesentium repudiandae excepturi numquam atque? Commodi molestias asperiores, excepturi quam sed qui cupiditate, nulla culpa cumque dignissimos ab voluptatibus? Sequi autem, iusto asperiores fuga quasi optio, consequatur aspernatur amet quia ipsam saepe omnis exercitationem dolor quod. Minima exercitationem facilis porro odio eos itaque corrupti minus non quis eius. Vitae voluptatibus esse veritatis eius temporibus quaerat itaque tenetur repudiandae iste incidunt alias in ducimus odit ratione non ut accusantium laborum placeat vero, nihil fugit quam doloremque. Harum praesentium molestiae nesciunt dolorem cumque maiores, explicabo velit corporis soluta quia, amet dignissimos, itaque voluptate debitis quisquam? Ab cupiditate autem eaque molestiae dolores odio laborum odit. Recusandae soluta nihil, dolorum blanditiis rem unde minus quaerat aliquid aut debitis, nemo itaque ducimus hic repellat placeat at ipsa necessitatibus distinctio! Quidem doloribus quo, sapiente quam minima quae ea dolorum ipsa quaerat deserunt optio. Minus accusantium itaque odit atque dolore qui, repudiandae hic ex fugit.
+  </footer>
+</template>
+
+<script setup>
+
+</script>
